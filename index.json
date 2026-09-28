@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-imap-module",
+  "versions": [
+    {
+      "commit": "25bb6dd5de984e56a81bff0e364dec365dd93383",
+      "tag": "0.1.7",
+      "parsed_at": "2026-09-28T07:28:01.495365+00:00"
+    }
+  ]
+}
