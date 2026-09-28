@@ -54,6 +54,220 @@
       ],
       "ast": [
         "aggregate/ast/25bb6dd5de984e56a81bff0e364dec365dd93383/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/25bb6dd5de984e56a81bff0e364dec365dd93383.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.20",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "6d57c34e594b4fe891e1d606a2de6fbddb6e77f4",
+          "githubTag": "25.0.0-dev.20",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "dogma",
+          "ecosystem": "CARGO",
+          "version": "0.1.11",
+          "githubOrg": "dogmatists",
+          "githubRepo": "dogma.rs",
+          "githubCommit": "05158408aca889a5bcc4ede013c42603f4e1c3c8",
+          "githubTag": "0.1.11",
+          "githubUrl": "https://github.com/dogmatists/dogma.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "imap",
+          "ecosystem": "CARGO",
+          "version": "3.0.0-alpha.15",
+          "githubOrg": "jonhoo",
+          "githubRepo": "rust-imap",
+          "githubCommit": "70ed8f170902b7b968c455b5c65eebc8c0508449",
+          "githubTag": "v3.0.0-alpha.15",
+          "githubUrl": "https://github.com/jonhoo/rust-imap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "imap-proto",
+          "ecosystem": "CARGO",
+          "version": "0.16",
+          "githubOrg": "djc",
+          "githubRepo": "tokio-imap",
+          "githubUrl": "https://github.com/djc/tokio-imap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "jiff",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "jiff",
+          "githubUrl": "https://github.com/BurntSushi/jiff",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "know",
+          "ecosystem": "CARGO",
+          "version": "0.2.8",
+          "githubOrg": "know-ontology",
+          "githubRepo": "know.rs",
+          "githubCommit": "bf6e15d559e2c2e1afcc0855248681850b466024",
+          "githubTag": "0.2.8",
+          "githubUrl": "https://github.com/know-ontology/know.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "mail-parser",
+          "ecosystem": "CARGO",
+          "version": "0.11",
+          "githubOrg": "stalwartlabs",
+          "githubRepo": "mail-parser",
+          "githubUrl": "https://github.com/stalwartlabs/mail-parser",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "percent-encoding",
+          "ecosystem": "CARGO",
+          "version": "2.3",
+          "githubOrg": "servo",
+          "githubRepo": "rust-url",
+          "githubUrl": "https://github.com/servo/rust-url/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rfc2047-decoder",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "TornaxO7",
+          "githubRepo": "rfc2047-decoder",
+          "githubUrl": "https://github.com/TornaxO7/rfc2047-decoder",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rustls",
+          "ecosystem": "CARGO",
+          "version": "0.22",
+          "githubOrg": "rustls",
+          "githubRepo": "rustls",
+          "githubUrl": "https://github.com/rustls/rustls",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "secrecy",
+          "ecosystem": "CARGO",
+          "version": "0.10",
+          "githubOrg": "iqlusioninc",
+          "githubRepo": "crates",
+          "githubUrl": "https://github.com/iqlusioninc/crates/tree/main/secrecy",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tldr",
+          "ecosystem": "CARGO",
+          "version": "0.1",
+          "githubOrg": "rilut",
+          "githubRepo": "rust-tldr",
+          "githubUrl": "http://github.com/rilut/rust-tldr",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3.8",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "18a9d41f329119836131c590ec8710bdddc65862",
+          "githubTag": "0.3.8",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "colored_json",
+          "ecosystem": "CARGO",
+          "version": "5",
+          "githubOrg": "ctron",
+          "githubRepo": "colored_json",
+          "githubUrl": "https://github.com/ctron/colored_json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rust-netrc",
+          "ecosystem": "CARGO",
+          "version": "0.1",
+          "githubOrg": "gribouille",
+          "githubRepo": "netrc",
+          "githubUrl": "https://github.com/gribouille/netrc",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tracing",
+          "ecosystem": "CARGO",
+          "version": "0.1.41",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubCommit": "0ca78870815a34a345a908f48db057057e8803d2",
+          "githubTag": "tracing-0.1.41",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs"
+        },
+        {
+          "packageName": "tldr-traits",
+          "ecosystem": "CARGO",
+          "version": "0.1.1",
+          "githubOrg": "dryrust",
+          "githubRepo": "tldr.rs",
+          "githubCommit": "547a4c433563aa783b368cac1cc0dc443569ee26",
+          "githubTag": "0.1.1",
+          "githubUrl": "https://github.com/dryrust/tldr.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tldr-traits-0.1.1/src/context.rs"
+        },
+        {
+          "packageName": "dotenvy",
+          "ecosystem": "CARGO",
+          "version": "0.15.7",
+          "githubOrg": "allan2",
+          "githubRepo": "dotenvy",
+          "githubCommit": "e330110a7cd9064ec913e554c9fc325c9d7cdb88",
+          "githubTag": "v0.15.7",
+          "githubUrl": "https://github.com/allan2/dotenvy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs"
+        },
+        {
+          "packageName": "getenv",
+          "ecosystem": "CARGO",
+          "version": "0.1.2",
+          "githubOrg": "dryrust",
+          "githubRepo": "getenv.rs",
+          "githubCommit": "6fafcf5587045ec427a804d3ea3da9b63e0605dd",
+          "githubTag": "0.1.2",
+          "githubUrl": "https://github.com/dryrust/getenv.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getenv-0.1.2/src/vars.rs"
+        }
       ]
     }
   ],
